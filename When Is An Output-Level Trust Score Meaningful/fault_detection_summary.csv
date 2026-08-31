@@ -1,0 +1,6 @@
+fault_type,expected_signal,n,expected_fired_rate,expected_unavailable_rate,T_dropped_rate,routing_changed_rate,any_signal_fired_rate
+FABRICATED_OBSERVATION,(none),4,0.0,0.0,0.25,0.25,0.25
+GOAL_INCOHERENT_ACTION,L,4,0.25,0.0,1.0,1.0,1.0
+HALLUCINATED_FACT,"E,V",9,0.222,0.0,0.333,0.222,0.667
+PREMATURE_SYNTHESIS,"C,L",3,1.0,0.0,1.0,0.333,1.0
+WRONG_TOOL_ARG,L,4,0.25,0.0,1.0,0.75,1.0
