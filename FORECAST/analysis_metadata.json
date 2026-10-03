@@ -1,0 +1,9 @@
+{
+  "input_sha256": "b2a11fb83a2bd73f6665020c0df2631f27e416142bfd6eb4a27a457898b46ff7",
+  "seed": 20260930,
+  "bootstrap_samples": 10000,
+  "resampling_unit": "claim pair",
+  "model": "gpt-oss:120b",
+  "scored_runs": 216,
+  "note": "One model execution per input; confidence intervals do not quantify evaluator rerun variability."
+}

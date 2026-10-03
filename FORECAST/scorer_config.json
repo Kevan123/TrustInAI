@@ -1,0 +1,18 @@
+{
+  "provider": "ollama_cloud",
+  "api_base": "https://ollama.com/api",
+  "model": "gpt-oss:120b",
+  "risk": 0.2,
+  "weights": [
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "temperature": 0.2,
+  "max_completion_tokens": 1024,
+  "scorer_version": "TRACE-atomic-submitted-passages-v1",
+  "include_open_web": false,
+  "workbook_sha256": "5d96e3ee92638579b96e0a0efbd6fd509f9fb11a1385af1e5d69c23bb0958c37"
+}
