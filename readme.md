@@ -15,7 +15,7 @@ Selected workbooks, data, calculations, experiments, and resulting outputs relat
 
 **When Is An Output-Level Trust Score Meaningful?**
 
-**Submitted to Elsevier - Under Review._**
+**Submitted to Elsevier - Under Review.**
 
 This research extends the investigation into AI output-level trust assessment by examining the conditions under which a single trust score is meaningful, interpretable, and useful. It considers the limitations of aggregating multiple trust signals and explores how task context, signal relationships, and uncertainty affect the interpretation of an output-level trust score.
 
